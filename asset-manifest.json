@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Uvxcel-Project/static/css/main.4fbb83cf.chunk.css",
+    "main.js": "/Uvxcel-Project/static/js/main.162726ee.chunk.js",
+    "main.js.map": "/Uvxcel-Project/static/js/main.162726ee.chunk.js.map",
+    "runtime-main.js": "/Uvxcel-Project/static/js/runtime-main.b8d8eb9b.js",
+    "runtime-main.js.map": "/Uvxcel-Project/static/js/runtime-main.b8d8eb9b.js.map",
+    "static/js/2.2465db4a.chunk.js": "/Uvxcel-Project/static/js/2.2465db4a.chunk.js",
+    "static/js/2.2465db4a.chunk.js.map": "/Uvxcel-Project/static/js/2.2465db4a.chunk.js.map",
+    "index.html": "/Uvxcel-Project/index.html",
+    "static/css/main.4fbb83cf.chunk.css.map": "/Uvxcel-Project/static/css/main.4fbb83cf.chunk.css.map",
+    "static/js/2.2465db4a.chunk.js.LICENSE.txt": "/Uvxcel-Project/static/js/2.2465db4a.chunk.js.LICENSE.txt",
+    "static/media/logo.4461bae7.png": "/Uvxcel-Project/static/media/logo.4461bae7.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b8d8eb9b.js",
+    "static/js/2.2465db4a.chunk.js",
+    "static/css/main.4fbb83cf.chunk.css",
+    "static/js/main.162726ee.chunk.js"
+  ]
+}
